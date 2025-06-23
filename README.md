@@ -27,7 +27,7 @@ This web application is a fully responsive cryptocurrency marketplace built with
 
 ### 🏠 Home Page
 
-![Home Page](./ss/1a.png)
+![Home Page](./1a.png)
 
 ### 💰 Coin Detail Page
 

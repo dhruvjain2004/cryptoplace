@@ -31,11 +31,11 @@ This web application is a fully responsive cryptocurrency marketplace built with
 
 ### 💰 Coin Detail Page
 
-![Coin Page](./screenshots/coinpage.png)
+![Coin Page](./2a.png)
 
 ### 📊 Live Chart
 
-![Chart Page](./screenshots/chart.png)
+![Chart Page](./3a.png)
 
 
 ## 📦 Tech Stack
